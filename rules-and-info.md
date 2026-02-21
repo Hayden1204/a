@@ -1,65 +1,115 @@
 # Rules
 
-*1.* **Please be civilized when discussing sensitive topics.** If one or both parties are being uncivilized, then the respective parties will be sanctioned.
+*TO DO*
 
-*2.* **Do not excessively harass other users.** This will lead to severe actions taken against if attempted.
-
-*3.* **Do not spam**, this includes chains as well as pictures or videos. The spam room is acceptable however.
-
-*4.* **Do not advertise.** Instead, ask for a partnership.
-
-*5.* **Keep subjects in the correct channels.** This helps keep our server tidy and separates conversation into relevant categories. The General room is for any topic you'd like to discuss, not just for New The30s & Co.
-
-*6.* **Do not post NSFW, sin, gore, disturbing images, or conversations.** We want to keep our server safe for everybody of all backgrounds of the world, so any sinful content shared will be removed and the provoker will be banned.
-
-*7.* **Any drama or uncivilized conversation is to be stopped immediately.** This is not Twitter, go away!
-
-*8.* **Respect the Conference, servers and members of the CFA.** The Conference and the CFA lead our server forward, so please show respect to them and other servers of the CFA.
-
-*9.* **Do not excessively post crappy memes, related themes or spammy content**, unless in the spam room. Stop spamming Among Us!
-
-*10.* **Free speech is guaranteed within this community.** However, we can still sanction you if you harass another user, you do not respect their boundaries, or you continue with a conversation when asked by the opposition to stop.
-
-# Info
-
-The rules of *New The30s*, *The30s Flashback* and *ThePIs* are the same as above. However, also **do not grief**, which includes modifying another's build without consent, and for *ThePIs* specifically, **do not cheat, steal, hack, fly or dupe**.
-
-Visit *New The30s* and *The30s Flashback* on the ClassiCube server list: https://www.classicube.net/server/list
+# Game Servers Info
 
 ## New The30s
 
-*Cross-play between:* ClassiCube and almost any Classic multiplayer version
+**Created on:** 28 December 2021 (Freebuild), 24 May 2024 (TNT Wars)
+**Created by:** H²
+**Hosted on:** Debian 13 "Trixie" (Freebuild), Debian 13 "Trixie" (TNT Wars)
+**Hosted by:** robot1cfish (Freebuild), Q0AL (TNT Wars)
+**Owner and Secondary Owner is:** prolikeagamer and robot1cfish
+**Supported Clients:** ClassiCube, Minecraft Classic
+**Recommended Client:** ClassiCube
+**Server Software:** MCGalaxy 1.9.5.3 (Freebuild), MCGalaxy 1.9.5.0 (TNT Wars)
+**Server Location:** 🇨🇦 Canada (Freebuild), 🇺🇸 United States (TNT Wars)
+**ClassiCube Server List:** https://www.classicube.net/server/list
+**Wiki Page:** https://the30s.270150.xyz/wiki/New_The30s
+**Freebuild is:** Online!
+**TNT Wars is:** Online!
 
-*Recommended client:* ClassiCube
+## The30s Flashback!
 
-*Current main worlds*: **world9** and **flat4**
+**Created on:** 31 December 2022
+**Created by:** H²
+**Hosted on:** Debian 13 "Trixie"
+**Hosted by:** robot1cfish
+**Owner is:** prolikeagamer
+**Supported Clients:** ClassiCube, Minecraft Classic
+**Recommended Client:** ClassiCube
+**Server Software:** 30sCraft
+**Server Location:** 🇨🇦 Canada
+**Server Hash:** `3a0aff8f91f3d76fc6fe9c0bf9509da4`
+**Wiki Page:** https://the30s.270150.xyz/wiki/The30s_Flashback!
+**The30s Flashback! is:** Online!
 
-*Server Software:* MCGalaxy
+## TheBetas
 
-*New The30s is:* Online!
+**Created on:** 3 March 2024
+**Created by:** H²
+**Hosted on:** Arch Linux
+**Hosted by:** H²
+**Owner is:** prolikeagamer
+**Supported Client:** Minecraft Beta 1.7.3
+**Recommended Client:** Minecraft Beta 1.7.3
+**Server Software:** Project Poseidon 1.1.11-251222-0138-81e5f18
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+**Server IP:** `thebetas.hs.vc`
+**Wiki Page:** https://the30s.270150.xyz/wiki/TheBetas
+**Dynmap:** http://thebetas.hs.vc:8123
+**TheBetas is:** Online!
 
-## The30s Flashback
+## SilverMCs
 
-*Cross-play between:* ClassiCube and almost any Classic multiplayer version
+**Created on:** 18 February 2026
+**Created by:** robot1cfish
+**Hosted on:** Debian 13 "Trixie"
+**Hosted by:** robot1cfish
+**Owner is:** robot1cfish
+**Supported Clients:** Minecraft 1.8–1.8.9
+**Recommended Client:** Minecraft 1.8.9
+**Server Software:** PandaSpigot version 195
+**Server Location:** 🇺🇸 United States
+**Server IP:** `min01.270150.xyz:25590`
+**Wiki Page:** https://the30s.270150.xyz/wiki/SilverMCs
+**Dynmap:** http://min01.270150.xyz:8123/
+**Drasl:** https://drasl.headcrab.party
+**Drasl Invite Link 1:** https://drasl.headcrab.party/web/registration?invite=8KBXVfLDtlN
+**Drasl Invite Link 2:** https://drasl.headcrab.party/web/registration?invite=UD7X4SURMhN
+**Drasl Invite Link 3:** https://drasl.headcrab.party/web/registration?invite=oGQqcxNDPbH
+**Drasl Invite Link 4:** https://drasl.headcrab.party/web/registration?invite=WTo79NZgslK
+**Drasl Invite Link 5:** https://drasl.headcrab.party/web/registration?invite=dYGzpyfIT8E
+**SilverMCs is:** Online!
 
-*Recommended client:* ClassiCube
+## TheAoS
 
-*Current main world*: **world5_Fb**
+**Created on:** 10 January 2026
+**Created by:** robot1cfish
+**Hosted on:** Debian 12 "Bookworm"
+**Hosted by:** robot1cfish
+**Owner is:** robot1cfish
+**Supported Clients:** BetterSpades, ButterSpades, OpenSpades, ZeroSpades
+**Recommended Client:** OpenSpades
+**Server Software:** piqueserver 1.3.0
+**Server Location:** 🇳🇱 Netherlands
+**Wiki Page:** https://the30s.270150.xyz/wiki/TheAoS
+**TheAoS is:** Offline.
 
-*Server Software:* 30sCraft
+## TuxKart 30
 
-*The30s Flashback is:* Online!
+**Created on:** 3 November 2025
+**Created by:** H²
+**Hosted on:** Arch Linux
+**Hosted by:** H² 
+**Owner is:** H²
+**Supported Clients:** SuperTuxKart 1.x
+**Recommended Client:** SuperTuxKart 1.5
+**Server Software:** SuperTuxKart 1.5
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+**Wiki Page:** https://the30s.270150.xyz/wiki/TuxKart_30
+**STK is:** Offline.
 
-## ThePIs
+# Non-Game Servers Info
 
-*Cross-play between:* Minecraft Pi: Reborn, Minecraft Pocket Edition 0.6.1 alpha and Ninecraft
+## Matrix homeserver
 
-*Recommended client:* Minecraft Pi: Reborn or Minecraft Pocket Edition 0.6.1 alpha (for mobile)
-
-*Current main world*: **world2**
-
-*Server Software:* 30sCraft
-
-*Server IP:* `thepis.hopto.org`
-
-*ThePIs is:* Online!
+**Created on:** 11 January 2026
+**Created by:** H²
+**Hosted on:** Arch Linux
+**Hosted by:** H²
+**Server Software:** Tuwunel 1.5.0
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+**Wiki Page:** https://the30s.270150.xyz/wiki/Matrix_homeserver
+**Matrix homeserver is:** Online!
