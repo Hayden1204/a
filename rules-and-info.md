@@ -106,7 +106,7 @@
 
 **Server Location:** 🇺🇸 United States
 
-**Server IP:** `min01.270150.xyz:25590`
+**Server IP:** `silvermcs.270150.xyz`
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/SilverMCs
 
