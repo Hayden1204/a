@@ -110,7 +110,7 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/SilverMCs
 
-**Dynmap:** http://min01.270150.xyz:8123/
+**Dynmap:** http://silvermcs.270150.xyz:8123/
 
 **Drasl:** https://drasl.headcrab.party
 
