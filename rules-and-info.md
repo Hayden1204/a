@@ -192,4 +192,4 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/Matrix_homeserver
 
-**Matrix homeserver is:** Offline.
+**Matrix homeserver is:** Online!
