@@ -92,9 +92,9 @@
 
 **Created by:** robot1cfish
 
-**Hosted on:** Debian 13 "Trixie"
+**Hosted on:** Arch Linux
 
-**Hosted by:** robot1cfish
+**Hosted by:** H²
 
 **Owner is:** robot1cfish
 
@@ -104,13 +104,13 @@
 
 **Server Software:** PandaSpigot version 195
 
-**Server Location:** 🇺🇸 United States
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 
-**Server IP:** `silvermcs.270150.xyz`
+**Server IP:** `newthe30s.hs.vc:25566`
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/SilverMCs
 
-**Dynmap:** http://silvermcs.270150.xyz:8123/
+**Dynmap:** *N/A*
 
 **Drasl:** https://drasl.headcrab.party
 
@@ -140,7 +140,7 @@
 
 **Supported Clients:** BetterSpades, ButterSpades, OpenSpades, ZeroSpades
 
-**Recommended Client:** OpenSpades
+**Recommended Client:** ZeroSpades
 
 **Server Software:** piqueserver 1.3.0
 
@@ -193,3 +193,23 @@
 **Wiki Page:** https://the30s.270150.xyz/wiki/Matrix_homeserver
 
 **Matrix homeserver is:** Online!
+
+## Mumble server
+
+**Created on:** 30 August 2025
+
+**Created by:** H²
+
+**Hosted on:** Arch Linux
+
+**Hosted by:** H²
+
+**Server Software:** Mumble-Server 1.5.857
+
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+
+**Server IP:** `mumble.newthe30s.hs.vc`
+
+**Wiki Page:** https://the30s.270150.xyz/wiki/Mumble_server
+
+**Mumble server is:** Online!
