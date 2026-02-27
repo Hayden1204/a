@@ -30,7 +30,7 @@
 
 **Freebuild is:** Online!
 
-**TNT Wars is:** Online!
+**TNT Wars is:** Offline.
 
 ## The30s Flashback!
 
@@ -124,7 +124,7 @@
 
 **Drasl Invite Link 5:** https://drasl.headcrab.party/web/registration?invite=dYGzpyfIT8E
 
-**SilverMCs is:** Online!
+**SilverMCs is:** Offline.
 
 ## TheAoS
 
@@ -172,7 +172,7 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/TuxKart_30
 
-**STK is:** Offline.
+**STK is:** Online!
 
 # Non-Game Servers Info
 
