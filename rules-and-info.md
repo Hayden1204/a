@@ -12,9 +12,9 @@
 
 **Hosted on:** Debian 13 "Trixie" (Freebuild), Debian 13 "Trixie" (TNT Wars)
 
-**Hosted by:** robot1cfish (Freebuild), Q0AL (TNT Wars)
+**Hosted by:** H² (Freebuild), H² (TNT Wars)
 
-**Owner and Secondary Owner is:** prolikeagamer and robot1cfish
+**Owner and Secondary Owner is:** robot1cfish and OguzY4
 
 **Supported Clients:** ClassiCube, Minecraft Classic
 
@@ -22,7 +22,7 @@
 
 **Server Software:** MCGalaxy 1.9.5.3 (Freebuild), MCGalaxy 1.9.5.0 (TNT Wars)
 
-**Server Location:** 🇨🇦 Canada (Freebuild), 🇺🇸 United States (TNT Wars)
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (Freebuild), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (TNT Wars)
 
 **ClassiCube Server List:** https://www.classicube.net/server/list
 
@@ -42,7 +42,7 @@
 
 **Hosted by:** robot1cfish
 
-**Owner is:** prolikeagamer
+**Owner is:** robot1cfish
 
 **Supported Clients:** ClassiCube, Minecraft Classic
 
@@ -82,49 +82,9 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/TheBetas
 
-**Dynmap:** http://thebetas.hs.vc:8123
+**Dynmap:** https://thebetas.hs.vc
 
 **TheBetas is:** Online!
-
-## SilverMCs
-
-**Created on:** 18 February 2026
-
-**Created by:** robot1cfish
-
-**Hosted on:** Arch Linux
-
-**Hosted by:** H²
-
-**Owner is:** robot1cfish
-
-**Supported Clients:** Minecraft 1.8–1.8.9
-
-**Recommended Client:** Minecraft 1.8.9
-
-**Server Software:** PandaSpigot version 195
-
-**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
-
-**Server IP:** `newthe30s.hs.vc:25566`
-
-**Wiki Page:** https://the30s.270150.xyz/wiki/SilverMCs
-
-**Dynmap:** *N/A*
-
-**Drasl:** https://drasl.headcrab.party
-
-**Drasl Invite Link 1:** https://drasl.headcrab.party/web/registration?invite=8KBXVfLDtlN
-
-**Drasl Invite Link 2:** https://drasl.headcrab.party/web/registration?invite=UD7X4SURMhN
-
-**Drasl Invite Link 3:** https://drasl.headcrab.party/web/registration?invite=oGQqcxNDPbH
-
-**Drasl Invite Link 4:** https://drasl.headcrab.party/web/registration?invite=WTo79NZgslK
-
-**Drasl Invite Link 5:** https://drasl.headcrab.party/web/registration?invite=dYGzpyfIT8E
-
-**SilverMCs is:** Offline.
 
 ## TheAoS
 
@@ -134,9 +94,9 @@
 
 **Hosted on:** Debian 12 "Bookworm"
 
-**Hosted by:** robot1cfish
+**Hosted by:** H²
 
-**Owner is:** robot1cfish
+**Owner is:** H²
 
 **Supported Clients:** BetterSpades, ButterSpades, OpenSpades, ZeroSpades
 
@@ -144,7 +104,7 @@
 
 **Server Software:** piqueserver 1.3.0
 
-**Server Location:** 🇳🇱 Netherlands
+**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/TheAoS
 
@@ -186,30 +146,12 @@
 
 **Hosted by:** H²
 
-**Server Software:** Tuwunel 1.5.0
+**Server Software:** Tuwunel 1.5.1
 
 **Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/Matrix_homeserver
 
+**Registration Token:** `fr6Ih6hIukvcAoxY`
+
 **Matrix homeserver is:** Online!
-
-## Mumble server
-
-**Created on:** 30 August 2025
-
-**Created by:** H²
-
-**Hosted on:** Arch Linux
-
-**Hosted by:** H²
-
-**Server Software:** Mumble-Server 1.5.857
-
-**Server Location:** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
-
-**Server IP:** `mumble.newthe30s.hs.vc`
-
-**Wiki Page:** https://the30s.270150.xyz/wiki/Mumble_server
-
-**Mumble server is:** Online!
