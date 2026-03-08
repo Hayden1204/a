@@ -132,7 +132,7 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/TuxKart_30
 
-**STK is:** Online!
+**TuxKart 30 is:** Online!
 
 # Non-Game Servers Info
 
