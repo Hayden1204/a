@@ -10,7 +10,7 @@
 
 **Created by:** H²
 
-**Hosted on:** Debian 13 "Trixie" (Freebuild), Debian 13 "Trixie" (TNT Wars)
+**Hosted on:** Arch Linux (Freebuild), Arch Linux (TNT Wars)
 
 **Hosted by:** H² (Freebuild), H² (TNT Wars)
 
@@ -92,7 +92,7 @@
 
 **Created by:** robot1cfish
 
-**Hosted on:** Debian 12 "Bookworm"
+**Hosted on:** Arch Linux ARM
 
 **Hosted by:** H²
 
