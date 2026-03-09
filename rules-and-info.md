@@ -28,7 +28,7 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/New_The30s
 
-**Freebuild is:** Online!
+**Freebuild is:** Offline.
 
 **TNT Wars is:** Offline.
 
@@ -86,7 +86,7 @@
 
 **TheBetas is:** Online!
 
-## TheAoS
+## Ace of 30 Spades
 
 **Created on:** 10 January 2026
 
@@ -132,7 +132,7 @@
 
 **Wiki Page:** https://the30s.270150.xyz/wiki/TuxKart_30
 
-**TuxKart 30 is:** Online!
+**TuxKart 30 is:** Offline.
 
 # Non-Game Servers Info
 
